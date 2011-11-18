@@ -19,13 +19,3 @@ Replaces: libksane0 (<< 4:4.6.80)
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: KScan plugin for scanning through libksane
  This is a KScan plugin that implements the scanning through libksane
-
-Package: ksaneplugin-dbg
-Section: debug
-Architecture: any
-Breaks: kdegraphics-dbg (<< 4:4.6.80)
-Replaces: kdegraphics-dbg (<< 4:4.6.80)
-Depends: ksaneplugin (= ${binary:Version}), ${misc:Depends}
-Description: debugging symbols for ksaneplugin
- This package contains debugging files used to investigate problems with
- binaries included in ksaneplugin.
