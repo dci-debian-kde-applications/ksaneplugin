@@ -1,7 +1,8 @@
 Source: ksaneplugin
 Section: kde
 Priority: extra
-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: José Manuel Santamaría Lema <panfaust@gmail.com>
 Build-Depends: cmake,
                debhelper (>= 7.0.50~),
                kde-sc-dev-latest (>= 4:4.7.1),
@@ -10,8 +11,8 @@ Build-Depends: cmake,
                libx11-dev
 Standards-Version: 3.9.1
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/ksaneplugin
-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/ksaneplugin
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/ksaneplugin
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/ksaneplugin.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/ksaneplugin.git
 
 Package: ksaneplugin
 Architecture: any
