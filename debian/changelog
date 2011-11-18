@@ -1,0 +1,28 @@
+ksaneplugin (4:4.7.1-0ubuntu2) oneiric; urgency=low
+
+  * No-change rebuild so translations aren't stripped from .desktop
+    files anymore.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Fri, 16 Sep 2011 01:02:16 +0200
+
+ksaneplugin (4:4.7.1-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Kolberg <bulldog98@kubuntu-de.org>  Fri, 09 Sep 2011 09:37:40 -0400
+
+ksaneplugin (4:4.7.0-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Michał Zając <quintasan@kubuntu.org>  Tue, 26 Jul 2011 23:39:14 +0200
+
+ksaneplugin (4:4.6.90+repack1-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release candidate
+  * Split packaging from kdegraphics for split tarball
+    - ksaneplugin breaks/replaces libksane0 (<< 4:4.6.80)
+    - ksaneplugin-dbg breaks/replaces kdegraphics-dbg (<< 4:4.6.80)
+  * Repackage upstream tar to include missing license copies.
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 06 Jul 2011 09:36:21 +0200
