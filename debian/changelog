@@ -6,6 +6,9 @@ ksaneplugin (4:4.7.4-0r0) UNRELEASED; urgency=low
   * Add myself to uploaders.
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
 
+  [ Pino Toscano ]
+  * Remove the unused build dependency on libx11-dev.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 07 Dec 2011 22:52:50 +0100
 
 ksaneplugin (4:4.7.2-1) experimental; urgency=low
