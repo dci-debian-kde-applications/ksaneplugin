@@ -18,4 +18,6 @@ Breaks: libksane0 (<< 4:4.6.80)
 Replaces: libksane0 (<< 4:4.6.80)
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: KScan plugin for scanning through libksane
- This is a KScan plugin that implements the scanning through libksane
+ This is a KScan plugin that implements the scanning through libksane.
+ .
+ This package is part of the KDE graphics module.
