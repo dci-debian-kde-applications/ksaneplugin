@@ -1,4 +1,4 @@
-ksaneplugin (4:4.7.4-0r1) UNRELEASED; urgency=low
+ksaneplugin (4:4.7.4-1) experimental; urgency=low
 
   * New upstream release.
 
@@ -10,7 +10,7 @@ ksaneplugin (4:4.7.4-0r1) UNRELEASED; urgency=low
   * Remove the unused build dependency on libx11-dev.
   * Slightly improve the description.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 07 Dec 2011 22:52:50 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:36:09 +0100
 
 ksaneplugin (4:4.7.2-1) experimental; urgency=low
 
