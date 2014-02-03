@@ -2,11 +2,13 @@ Source: ksaneplugin
 Section: kde
 Priority: extra
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Eshat Cakar <info@eshat.de>,
-           Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.11),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11), libksane-dev (>= 4:4.11)
+Uploaders: Eshat Cakar <info@eshat.de>, Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libksane-dev (>= 4:4.11),
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/kde/kdegraphics/ksaneplugin
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/ksaneplugin.git
