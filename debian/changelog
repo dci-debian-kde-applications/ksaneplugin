@@ -1,9 +1,9 @@
-ksaneplugin (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+ksaneplugin (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * Merged with Debian
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Thu, 11 Feb 2016 12:14:04 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:03:59 +0100
 
 ksaneplugin (4:15.12.0-1) experimental; urgency=medium
 
