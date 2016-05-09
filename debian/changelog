@@ -1,8 +1,10 @@
-ksaneplugin (4:15.12.2-1~) UNRELEASED; urgency=medium
+ksaneplugin (4:15.12.3-1~1.gbpea2f8a) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @ea2f8ae997a176b82ec445ff124d9986fcf22348 **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:43:43 +0100
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 14:18:38 +0200
 
 ksaneplugin (4:15.12.0-1) experimental; urgency=medium
 
