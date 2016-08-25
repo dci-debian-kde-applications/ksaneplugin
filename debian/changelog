@@ -2,6 +2,8 @@ ksaneplugin (4:16.08.0-0r1) UNRELEASED; urgency=medium
 
   [ Pino Toscano ]
   * New upstream release.
+  * Bump the priority from extra to optional, just like the rest of KDE
+    applications & components.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 25 Aug 2016 06:30:35 +0200
 
